@@ -1,6 +1,6 @@
 import socket, thread, pickle, logging, copy
 
-logging.basicConfig(level=logging.DEBUG) #(filename='logefile.log', level=logging.INFO) switch to this to log to file
+logging.basicConfig(level=logging.DEBUG) #(filename='logefile.log', level=logging.INFO) switch to this to log to file, maybe
 
 host = ''
 port = 7878
